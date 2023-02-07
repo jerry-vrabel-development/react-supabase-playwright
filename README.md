@@ -1,3 +1,3 @@
 # React Supabase and Playwright
 
-## Typescript app
+## An application built with Typescript, React Components, Supabase database, and Playwright end-to-end testing
